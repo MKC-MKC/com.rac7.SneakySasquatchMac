@@ -1,0 +1,265 @@
+**********PROFILE1
+--------default2/user.stuff 143b
+{"gert":{},"dn":"MacBook Pro\u00a0\u2014 RAZIEL","st":1659304171,"sc":388,"pt":13585,"lst":"wQIxiF7pEh","lsv":"1.8.4","lcb":1659289388,"cbc":6}
+--------default2/sasquatch.stuff 531b
+{"map_locations":{},"togtool":{},"shipping":{},"sbonza":{},"cmpn":[],".m1":1,"current_map":"8930916232d01244a9062947aec24046","current_map_entrance":2,"current_disguise":"fancy","current_tool":"2R","hunger":6,"cbp":"red","hunger_tick":4,"time":21,"VERSION":2,"homeMap":"eba1dfee3f1e73b45bf48c7d42fc2246","dayEndType":0,"weather":0,"norainctr":3,"day":28,"rsd":-284894424,"coins":99437482,"gsd":-868413752,"yest_hung":4,"cpm":4139,"primary_vehicle":"pH","lumber":3,"rent_apart":"1","bankcoin":355546,"on_bcd":-175,"today_news":"Xu"}
+--------default2/inventory.stuff 51b
+{"items":[{"type":"mapseg_1"},{"type":"mapseg_2"}]}
+--------default2/equipment.stuff 65b
+{"equipment":[],"vehicles":[],"furniture":[],"backpacks":["red"]}
+--------default2/settings.stuff 18b
+{"tj":1,"tjs":200}
+--------default2/variables.stuff 1103b
+{"flags":{"m_sc":1,"m_ds":1,"ee":1,"Pc":1,"m_scc":1,"HL":0,"racintro":1,"raceat":1,"racsneak":1,"firstday":1,"hdtd":0,"bear_food_completed":1,"xy":1,"pZ":1,"uT":1,"Z1":1,"M8Bg":1,"vzH9":1,"K0":1,"treasurehunt_started":1,"fatcat_intro_completed":1,"htb":1,"GA":1,"uh":1,"FZ":1,"l3":1,"Of":1,"look_mapboard":1,"9LLC":1,"gf":1,"vL":1,"ij":1,"Ht":0,"aJnF":1,"52aR":1,"j7":1,"shortcut_unlocked":1,"t4T1":1,"XG7a":1,"kKg6":1,"smcntst":0,"XVpJ":1,"rdVo":1,"svoL":1,"9Bpv":0,"ye6s":1,"fixmill_completed":1,"JRGy":1,"WL":1,"EVAJ":1,"e4DG":1,"6ztu":1,"tclO":1,"wQQC":1,"3hfj":1,"334y":1,"wJUp":1,"oHsj":1,"DPQT":1,"K8tK":0,"sTqc":0,"kWAt":1,"fishtut":1,"N85u":1,"race_driver_completed":1,"q2EG":1,"4D":1,"visited_ski_master":1,"F9sv":1,"a7":1,"Atwf":1,"vgCw":1,"IAYQ":1,"xOeg":1,"w0":1,"ef":1,"ud":1,"jP":1,"3T":1,"Oi":1,"iO":1,"qFjB":1,"Kafq":1,"mischief_drifting_completed":1,"la":1,"WW":1,"1v":1,"An":1,"vJJn":1,"Q5wm":1,"CsDz":1,"kZca":1,"ZGPw":1,"dJxJ":1,"nqJM":1},"WZ":1,"k3":1,"ek51":1111,"mr":1,"66":"\u0421\u043f\u0430\u0433\u0435\u0442\u0442\u0438 \u043e\u0442 \u0431\u043e\u0433\u0430","60":"555-7724"}
+--------default2/visitedmaps.stuff 55b
+{"visited_maps":{"eba1dfee3f1e73b45bf48c7d42fc2246":1}}
+--------default2/eathistory.stuff 67b
+{"news":{},"phoneHist":[{"id":"pL","k":true},{"id":"pj","k":true}]}
+--------default2/day.stuff 139b
+{"slots":{},"objloc":{"0i":"f4617792c91f17d4b87089879062cea8","player_pH":"eba1dfee3f1e73b45bf48c7d42fc2246"},"objp":{},"sgb":{},"mrss":{}}
+--------default2/fishing.stuff 10b
+{"fti":[]}
+--------default2/mushroom.stuff 19b
+{"mti":[],"mcd":{}}
+--------default2/stats.stuff 48b
+{"tr":[],"fe":36,"is":5,"rda":10,"cbr":4,"fc":5}
+--------default2/jobs.stuff 11b
+{"jobs":[]}
+--------default2/photos.stuff 30b
+{"photos":[],"rq":[],"crq":[]}
+--------default2/lfs.stuff 14b
+{"records":[]}
+--------default2/outfits.stuff 9b
+{"ol":[]}
+--------default2/thing.stuff 118b
+{"c":{},"j":"kB7eCZuDdZEkaKeEgh+ML5BDNqdOgix0","s":"H+DBFVbI3Pog0v/VlPW+JX0P6AI/H5N4D/yF1RjOxlAeubMjD+tbxKYTqJQGbKuV"}
+--------default2/pet.stuff 8b
+{"p":[]}
+--------default2/friend.stuff 14b
+{"friends":[]}
+--------default2/map/8576179ecb645724f9ee4aa0525c772e.stuff 2b
+{}
+--------default2/map/6763eea6e41a879408cf8613bddb8c6d.stuff 2b
+{}
+--------default2/map/eba1dfee3f1e73b45bf48c7d42fc2246.stuff 1330b
+{"objects":[{"hd":0,"id":"c5bf0e10bd2a0804aa90dfc7e1ad6c8b","st":"digsite"},{"hd":0,"id":"f2992b3357a2d0a4595de64d44a73657","st":"digsite"},{"fish":["FishCatfish","FishCatfish"],"seed":[-362424989,1034603783],"id":"gwFq","st":"obj","e":29},{"fish":["talkingfish"],"seed":[-682315869],"id":"e09186fceba6b6a42bfad71763b6b00b","st":"obj","e":29},{"station":0.100000024,"volume":0,"aRot":0,"aLen":1,"ss":-63.6966438,"id":"Z8mS","st":"obj","e":29},{"id":"bear_shelter","st":"CI"},{"id":"snack_shack","st":"CI"},{"items":[{"id":"6D","count":2},{"id":"Banana","count":2},{"id":"RT","count":2}],"id":"NDLA","st":"vending","e":29},{"id":"carport","st":"CI"},{"id":"large_house","st":"CI"},{"id":"planter_flowers","st":"CI"},{"x":1451.99988,"y":378.099976,"rotation":0,"type":"pH","active":1,"playerowned":1,"id":"player_pH","st":"vehicle","e":29},{"lv":28.0194435,"id":"Z8mS","st":"container","e":29},{"oL":[{"x":897.7984,"y":-51.56546,"t":0,"d":"9M"},{"x":1987.1543,"y":218.669678,"t":0,"d":"9M"}],"id":"mr$p","st":"msp","e":29},{"contents":[{"t":"OrangeJuice","x":-115.998535,"y":-101.573341,"r":0.1509813,"z":0,"s":{"d":-50}},{"t":"Sausage","x":-0.435546875,"y":-171.712479,"r":3.533633,"z":0,"s":{"d":-50}}],"lv":28.0194435,"id":"k2Vf","st":"container"},{"lv":28.0194435,"id":"MV","st":"container","e":29}],"lvt":0.0291666668,"lvd":28}
+--------default2/map/5211336acc7bc5d4b95f16ebeb9b1859.stuff 2b
+{}
+--------default2/map/851c3e2334c2f324184277e524c4d024.stuff 2b
+{}
+--------default2/map/ab54f4c4f1d1af8498d3228098d5aed2.stuff 2b
+{}
+--------default2/map/840c14b6794c684459d8b05bfccf463d.stuff 2b
+{}
+--------default2/map/56cda9539517142d6b1abbd72e2f28a6.stuff 2b
+{}
+--------default2/map/90c09a01e2ed344959ba4b59c583b2d2.stuff 2b
+{}
+--------default2/map/26c7ef3776de5c5448b0cd95f8ed0c8d.stuff 2b
+{}
+--------default2/map/bcae57359098a5948b6984a62b8ed3cb.stuff 2b
+{}
+--------default2/map/5a6939ba4be6d42d0b06f5ba9f6a6e20.stuff 2b
+{}
+--------default2/map/25611dab0110e4ee3bb83f3f3f3697ee.stuff 2b
+{}
+--------default2/map/cf4c9a1f0f39c824fb8c88c8da9dad05.stuff 2b
+{}
+--------default2/map/41399389493348a408b47987e754a039.stuff 2b
+{}
+--------default2/map/7b512eb08c1822346a07bf07c3925174.stuff 2b
+{}
+--------default2/map/7dee23eb2344440728be562b513e95ac.stuff 2b
+{}
+--------default2/map/0d9789d23538e06448100b44fa18af4c.stuff 2b
+{}
+--------default2/map/e2462d9d9c2853641a584aa5842cbb84.stuff 2b
+{}
+--------default2/map/7d83ab9bfe2284addb5d4e2e98ccad4c.stuff 2b
+{}
+--------default2/map/8930916232d01244a9062947aec24046.stuff 2b
+{}
+--------default2/map/53f58434e718d4e24a479c668b8cf857.stuff 2b
+{}
+--------default2/map/dc7474886c190d044b53079255fbc91a.stuff 2b
+{}
+--------default2/map/f4617792c91f17d4b87089879062cea8.stuff 975b
+{"objects":[{"hd":0,"id":"019b52e834b58ec4387f24d2893eaf40","st":"digsite"},{"hd":0,"id":"d8d83710de7259b4b9a6e60268281462","st":"digsite"},{"ss":398739254,"id":"3b","st":"obj","e":29},{"x":1219.09985,"y":-2540.2,"rotation":0,"type":"Xw","active":1,"em":[],"id":"0i","st":"vehicle","e":29},{"seed":1599871631,"id":"Ub1z","st":"camper","e":29},{"contents":[{"t":"treasure_goldpouch_large","x":117.488281,"y":-128.495712,"r":358.7961,"z":0},{"t":"treasure_goldpouch_med","x":-13.1523438,"y":-164.2509,"r":241.653915,"z":0},{"t":"treasure_goldpouch_small","x":125.852783,"y":-28.3335266,"r":355.3668,"z":0},{"t":"treasure_goldpouch_small","x":240.591064,"y":-157.0071,"r":356.926178,"z":0}],"lv":28.0157413,"id":"o0S8","st":"container"},{"oL":[{"x":2793,"y":-1527,"t":1,"d":"6V"},{"x":1448.28235,"y":1117.87537,"t":0,"d":"xw"},{"x":1711.58508,"y":993.5353,"t":0,"d":"k3"},{"x":776.891541,"y":1044.81775,"t":0,"d":"k3"}],"id":"5W","st":"msp","e":29}],"lvt":0.0236111116,"lvd":28}
+--------default2/map/6a7f8ee39c31243248db3ff2a220a5bd.stuff 2b
+{}
+--------default2/map/e9c4ff92fb9fe47529bd2c7720a60725.stuff 2b
+{}
+--------default2/map/a664d3aef85446047b876d11a648a0d5.stuff 2b
+{}
+--------default2/map/d8446d745b855430280f1fe272367e97.stuff 2b
+{}
+--------default2/map/425cd7c9c058d05429ab1463c28c669b.stuff 2b
+{}
+--------default2/map/e052f10e4dc33bd4090db911165b8491.stuff 2b
+{}
+--------default2/map/0740a648fd02648f5a163f788f1e7d1a.stuff 2b
+{}
+--------default2/map/8234116d762534bb1a06743985783572.stuff 2b
+{}
+--------default2/map/d732ff1bc39914f6f82f9ab6e9e8a52f.stuff 2b
+{}
+--------default2/map/1e4776f558d9f3141b72ed309ff2ec09.stuff 2b
+{}
+--------default2/map/38fc2d14f91924c7184cb15e5d1fedf8.stuff 2b
+{}
+--------default2/map/c82593e1a63e74fc18803d56114222d9.stuff 2b
+{}
+--------default2/map/0a39a8addc8114fc2a33b37c28a9acf2.stuff 2b
+{}
+--------default2/map/e52944023fbeaa749ba25b65025a25a7.stuff 2b
+{}
+--------default2/map/39b15ed064a46432392c806d83b63eeb.stuff 2b
+{}
+--------default2/map/416c780ecabf761428de0f8fc9017bb4.stuff 2b
+{}
+--------default2/map/4b1ac88e619e8e84e970d5643c852cf2.stuff 2b
+{}
+--------default2/map/ca256aa3d9ecd1a4cb87ae2a43f8adf2.stuff 2b
+{}
+--------default2/map/b6dc289ca0b07b3469d9ea799486f033.stuff 2b
+{}
+--------default2/map/a89a600886a4bdd4b8498736055aa9c6.stuff 2b
+{}
+--------default2/map/79f91efe51b1e473eba5f460e6ddeb8a.stuff 2b
+{}
+--------default2/map/7e21c19f688b3454ca69cd6f5097bdfe.stuff 2b
+{}
+--------default2/map/b69b56e70bba4c14ea3f8ee5b1a6f47d.stuff 2b
+{}
+--------default2/map/12cb8f3b02623462da9749187c513ea1.stuff 2b
+{}
+--------default2/map/dcc2ae686ede74511afd467855734360.stuff 2b
+{}
+--------default2/map/c29a1b87807446a42b0006a75eb79d79.stuff 2b
+{}
+--------default2/map/25e0fb904a0908e4a9b22cfb9367880a.stuff 2b
+{}
+--------default2/map/2c94bc13fc92bff498f14160283302ad.stuff 2b
+{}
+--------default2/map/1b78623ccda01d24a8d6d6b66315cae6.stuff 2b
+{}
+--------default2/map/e6158fa2c1d01bb4493778fe28c3a006.stuff 2b
+{}
+--------default2/map/907dfc902b5bd354489541d7d91ed370.stuff 2b
+{}
+--------default2/map/bb89d31001c36ed42b6dc258b16bd9e9.stuff 2b
+{}
+--------default2/map/c6f0eca5820a7ae4f9d5904786b98a74.stuff 2b
+{}
+--------default2/map/ca5e7e3b4095e4e9080973b79c8ffe69.stuff 2b
+{}
+--------default2/map/4901dbd93469a434b9a7e37f60c35cff.stuff 2b
+{}
+--------default2/map/c8902e20d1b646f478ab33c8347b78a4.stuff 2b
+{}
+--------default2/map/98d7d8791f02b4744ab9d9ad2c3e8c62.stuff 2b
+{}
+--------default2/map/ec97b36eb56070146bd4b02bd802fbe1.stuff 2b
+{}
+--------default2/map/51dae43ff2c17e84f98b2fcd1e9a3282.stuff 2b
+{}
+--------default2/map/1c3a370332b98a04fb37c7ececcc6bde.stuff 2b
+{}
+--------default2/map/ac8b9bd17b43c064f8b64ceb3a013e7a.stuff 2b
+{}
+--------default2/map/0495fd3bffd80486688b0f15d323a70e.stuff 2b
+{}
+--------default2/map/7fe1cb78ef2144d4a91fe9482b218893.stuff 2b
+{}
+--------default2/map/15ca7354b1ebc4af3aca4f78699a3f8d.stuff 2b
+{}
+--------default2/map/a2026402baa8e894b98b8039f85824e4.stuff 2b
+{}
+--------default2/map/e6346e5ad10bc6b4882f4fe660a08bf1.stuff 2b
+{}
+--------default2/map/45f6b523f5ff34fba9d81add696599c8.stuff 2b
+{}
+--------default2/map/5d37a095513054cefa711223de1daeef.stuff 2b
+{}
+--------default2/map/0cafa5152e5c76f47adc47245cad4f74.stuff 2b
+{}
+--------default2/map/f63cc2cc075a445b883c7fc44acfed05.stuff 2b
+{}
+--------default2/map/f689e641b5ec7470d923eae12eedd349.stuff 2b
+{}
+--------default2/map/65f4f6542ff0f4de590b580416ff3543.stuff 2b
+{}
+--------default2/map/363a724a585694998a30e8661b40bc0b.stuff 2b
+{}
+--------default2/map/f0cfec9d6fa9f7e448983bd22929c999.stuff 2b
+{}
+--------default2/map/e0cc4dd9c8752d7468c0bad5872a4443.stuff 2b
+{}
+--------default2/map/8f506474009fd4b43a6d6d2dbbf95c1e.stuff 2b
+{}
+--------default2/map/5dd33ede060b3b24fbdc4f23c9693398.stuff 2b
+{}
+--------default2/map/ca675638f097b8246bc48f306553d1c1.stuff 2b
+{}
+--------default2/map/f24e8e3c09469e844a7101ee484f5147.stuff 2b
+{}
+--------default2/map/7c4597dcc99b646ab84ee37713d8f011.stuff 2b
+{}
+--------default2/map/4ac6e04e157214954bda2dfb61a4b187.stuff 2b
+{}
+--------default2/map/98afbfdbef710494ba1a214cd6a06682.stuff 2b
+{}
+--------default2/map/c13101f490be3a64ab08f57029d5095b.stuff 2b
+{}
+--------default2/map/6a5b5d9a02efe3549ae62c9e57651664.stuff 2b
+{}
+--------default2/map/acdf6d7b640d3654e86758b5c1354291.stuff 2b
+{}
+--------default2/map/fac990495b46b9b478c94817c749e37e.stuff 2b
+{}
+--------default2/map/248eab97b7ec2304186c3fa2160e1d8e.stuff 2b
+{}
+--------default2/map/43692b5e5a4b447eebdc409baec812ee.stuff 2b
+{}
+--------default2/map/0f4d8dccae833478ca4b4725b1017c75.stuff 2b
+{}
+--------default2/map/d3ec1f6d5c29b5f4db4b0a4863ec3491.stuff 2b
+{}
+--------default2/map/3109c5e7e67cfef4a996b11f0bdfd689.stuff 2b
+{}
+--------default2/map/4bca25ef5a9b56d469f3cedfd3d2dc09.stuff 2b
+{}
+--------default2/map/7a9fc314c854ca849837bbec11aa2c95.stuff 2b
+{}
+--------default2/map/5c0233d07db57f2488ef768e2809aa26.stuff 2b
+{}
+--------default2/map/9633c0fbc8bf5d543bcfef5de16e92d1.stuff 2b
+{}
+--------default2/map/963db55768d2df348add93df916ddb25.stuff 2b
+{}
+--------default2/map/9bbf662e12d62f841a646bce4a5f89bb.stuff 2b
+{}
+--------default2/map/ad4954439bb3254459b989ed1663e8a9.stuff 2b
+{}
+--------default2/map/a341ecb72ae827f4089fd1547edc43d5.stuff 2b
+{}
+--------default2/map/3cabb55928f1b471db269ea27ed5215e.stuff 2b
+{}
+--------default2/map/384063bfc484a0446abe8b5b54fc30c5.stuff 2b
+{}
+--------default2/map/5310f20dfa679ed4d9ac9e696f552d51.stuff 2b
+{}
+--------default2/map/431fc04a544694246b9017b02edf22bf.stuff 2b
+{}
+--------default2/map/1aa2907b9fec3404fb7ed83ea8bd248c.stuff 2b
+{}
+--------default2/map/b9ccd90f89fc8914f9f003523c205bbe.stuff 2b
+{}
+--------default2/map/ee650696a87ebd54ca80f39aebee7ec5.stuff 2b
+{}
+--------default2/map/ec98ae0e29332be40ae88b047b100981.stuff 2b
+{}
+--------default2/map/c95b68910731c4d709270f90e4394161.stuff 2b
+{}
+--------default2/map/1750316a720ac4b919a0dae18e6b4549.stuff 2b
+{}
